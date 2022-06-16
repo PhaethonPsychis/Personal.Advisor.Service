@@ -9,7 +9,8 @@ We support experimental decentralized applications that use novel technologies, 
 
 ### Application ecosystem and infrastructure.<br> 
 Web3-Maritime requires new tools and infrastructure. We encourage the development of these tools with open ecosystem values.
-Education and ecosystem development. We aim to raise awareness and bring more shipping and maritime companies, developers, technologists, and leaders to the frontiers of decentralized web3-maritime development. We do this through educational programs and other community initiatives.<br> <br> 
+### Education and ecosystem development.<br>
+We aim to raise awareness and bring more shipping and maritime companies, developers, technologists, and leaders to the frontiers of decentralized web3-maritime development. We do this through educational programs and other community initiatives.<br> <br> 
 
 0xMAR is entirely funded by the workshops and advisor services we deliver. 
 
