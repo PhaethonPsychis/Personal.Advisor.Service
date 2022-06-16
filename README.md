@@ -1,4 +1,4 @@
-# # The Web3 Maritime Foundation 
+# The Web3 Maritime Foundation 
 promotes the creation of a web3-maritime ecosystem and application-level innovation on decentralized platforms specifically designed to serve the needs of the industry. Our primary areas of focus are:<br><br>
 
 ### Research and development. <br> 
