@@ -4,7 +4,8 @@ This workshop looks toward the future of web3 and maritime. Learn how to use web
 https://b6wvbho05t0.typeform.com/to/wAuohLtf <br><br>
 ![PERSONALISED WORKSHOP AND ADVISORY SERVICES (1)](https://user-images.githubusercontent.com/80890815/174136331-1e526214-85a9-4c39-9637-528bc089107c.png)
 <br><br>
-The Web3 Maritime Foundation promotes an ecosystem and application-level innovation on decentralized platforms specifically designed to serve the needs of the industry. Our primary areas of focus are:<br><br>
+# The Web3 Maritime Foundation 
+promotes an ecosystem and application-level innovation on decentralized platforms specifically designed to serve the needs of the industry. Our primary areas of focus are:<br><br>
 ### Research and development. <br> 
 We support experimental decentralized applications that use novel technologies, such as zero-knowledge cryptography. We support projects aiming to push the boundaries of what is technically possible with blockchain applications and open-source tools
 
