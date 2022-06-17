@@ -13,7 +13,7 @@ The Web3 Maritime Foundation, 0XMAR, is entirely funded by the workshops and adv
 
 
 
-# The web3 maritime workshop
+# workshop #1
 ### Building the Greek web3-maritime ecosystem. 
 This workshop looks toward the future of web3 and maritime. Learn how to use web3 and combine it with your knowledge and competence from the shipping industry to reach maximal operational efficiency. Create a vision for the Greek web3-maritime ecosystem.<br>
 https://b6wvbho05t0.typeform.com/to/wAuohLtf <br><br>
