@@ -1,6 +1,6 @@
 # The Web3 Maritime Foundation 0XMAR
 promotes operational infrastructure for the maritime industry on decentralized web3 platforms. Welcome to the future of web3 maritime, where you own the infrastructure, your network, and your data, and you can deploy products and services that everyone can use.<br>
-0XMAR is a web3 organization that invests in and builds a web3-maritime ecosystem of application-level innovation on decentralized platforms. 
+0XMAR is a web3 organization that invests in and builds a web3-maritime ecosystem and application-level innovation on decentralized platforms. 
 <br><br> Our primary areas of focus are:<br><br>
 
 ### Open source maritime infrastructure, shared ownership, permission-free, open source <br> 
