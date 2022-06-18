@@ -1,5 +1,6 @@
 # The Web3 Maritime Foundation 
-promotes operational infrastructure for the maritime industry on decentralized web3 platforms.<br><br> Our primary areas of focus are:<br><br>
+promotes operational infrastructure for the maritime industry on decentralized web3 platforms. Welcome to the future of web3 social maritime, where you own the infrastructure, your network, and your data, and you can deploy products and services that everyone can use.
+<br><br> Our primary areas of focus are:<br><br>
 
 ### Research and development. <br> 
 We support experimental decentralized applications that use novel technologies, such as zero-knowledge cryptography. We support projects aiming to push the boundaries of what is technically possible with blockchain applications and open-source tools
