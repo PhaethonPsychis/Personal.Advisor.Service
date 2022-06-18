@@ -3,10 +3,10 @@ promotes operational infrastructure for the maritime industry on decentralized w
 0XMAR is a web3 organization that invests in and builds a web3-maritime ecosystem and application-level innovation on decentralized platforms. 
 <br><br> Our primary areas of focus are:<br><br>
 
-### Open source maritime infrastructure, shared ownership, permission-free, open source <br> 
+### Web3 maritime infrastructure, shared ownership, permission-free, open source <br> 
 We support experimental decentralized applications that use novel technologies, such as zero-knowledge cryptography. We support projects aiming to push the boundaries of what is technically possible with blockchain applications and open-source tools
 
-### Application ecosystem and infrastructure.<br> 
+### Application ecosystem.<br> 
 Web3-Maritime requires new tools and infrastructure. We encourage the development of these tools with open ecosystem values.
 ### Education and community development.<br>
 We raise awareness and build capacity. We bring more shipping and maritime companies, developers, technologists, and leaders to the frontiers of decentralized web3 maritime development. We do this through educational programs, and other community initiatives.<br> <br> 
