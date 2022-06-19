@@ -1,5 +1,5 @@
 # The Web3 Maritime Foundation 
-Supporting digital mariiime infrastructure innovation on decentralized web3 platforms.<br>
+Supporting digital mariiime infrastructure innovation on decentralized web3 platforms.<br><br>
 The Web3 Maritime Foundation supports the development of decentralized operational infrastructure for the maritime-shipping industry on blockchain platforms. WMF envisions a maritime future where web3 is the technological base for building financial, digital, and supply chain infrastructure ecosystems. <br>
 The state of existing infrastructure is neither desirable nor sustainable. Constructing a web3 digital ecosystem is a task too large and too important for any corporate organization to tackle on its own.  Market participants, policymakers, innovators, companies, universities, and investors all need to collaborate in this work. WMF is founded to enable the industry to act collectively and coordinate toward an advanced digital future.<br><br> 
  
