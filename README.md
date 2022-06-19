@@ -20,6 +20,9 @@ https://b6wvbho05t0.typeform.com/to/wAuohLtf <br><br>
 ![PERSONALISED WORKSHOP AND ADVISORY SERVICES (1)](https://user-images.githubusercontent.com/80890815/174136331-1e526214-85a9-4c39-9637-528bc089107c.png)
 <br><br>
 
+# WMF is a web3-organisation
+In the future WMF will offer digital membership to maritime organizations and companies that are ready to embrace industry wide digital technology in their operations. The WMF initiative is establishing novel decentralized management and governance structures that we will anounce soon. You can think of WMF as the Web 3 version of a credit union or cooperative: think of a community of people that contribute to the joint development of a product, rather than a product being engineered and sold to individuals. We welcome you to join us and make a difference together.<br>
+
 
 
 
