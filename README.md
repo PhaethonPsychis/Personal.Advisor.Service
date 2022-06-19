@@ -1,14 +1,14 @@
 # The Web3 Maritime Foundation 
-The Web3 Maritime Fouundation supports decentralized operational infrastructure for the maritime-shipping industry on blockchain platforms. Welcome to the future of web3 maritime, where you own the infrastructure, your network, and your data, and you can deploy products and services that everyone can use.<br>
-0XMAR is a web3 organization that invests in and builds a web3-maritime ecosystem and application-level innovation on decentralized platforms. 
-<br><br> Our primary areas of focus are:<br><br>
-
-### Web3 maritime infrastructure, shared ownership, permission-free, open source <br> 
-We support experimental decentralized applications that use novel technologies, such as zero-knowledge cryptography. We support projects aiming to push the boundaries of what is technically possible with blockchain applications and open-source tools
+The Web3 Maritime Foundation supports and develops decentralized operational infrastructure for the maritime-shipping industry on blockchain platforms. WMF envisions a maritime future where web3 is the technological base for building financial, digital, and supply chain infrastructure ecosystems. <br>
+The state of existing infrastructure is neither desirable nor sustainable. Constructing a web3 digital ecosystem is a task too large and too important for any corporate organization to tackle on its own.  Market participants, policymakers, innovators, companies, universities, and investors all need to collaborate in this work. WMF is founded to enable the industry to act collectively and coordinate toward an advanced digital future.<br><br> 
+ 
+The domains we work on are:<br><br>
+### Digital infrastructure autonomy
+We support experimental decentralized applications that use novel technologies, such as zero-knowledge cryptography. We support projects aiming to push the boundaries of what is technically possible with blockchain applications and open-source tools. 
 
 ### Application ecosystem.<br> 
 Web3-Maritime requires new tools and infrastructure. We encourage the development of these tools with open ecosystem values.
-### Education and community development.<br>
+### Education and coordination.<br>
 We raise awareness and build capacity. We bring more shipping and maritime companies, developers, technologists, and leaders to the frontiers of decentralized web3 maritime development. We do this through educational programs, and other community initiatives.<br> <br> 
 
 The Web3 Maritime Foundation, 0XMAR, is entirely funded by the workshops and advisor services we deliver. 
