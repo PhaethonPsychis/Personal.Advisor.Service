@@ -1,18 +1,17 @@
 # The Web3 Maritime Foundation 
 Supporting a shared digital infrastructure platform for the maritime industry on open web3-blockchains .<br><br>
+### Vision
 WMF is an association created to promote a vision that sees many companies and platforms of the maritime industry in the near future interacting with each other through a shared decentralized infrastructure and open source applications for international trade and shipping management<br><br>
-
+### Mission
 WMF has a simple and powerful mission: to enable the maritime industry to develop and share a decentralized digital infrastructure where market participants collaborate to build the platform's technology. Anyone can use the network to compete in offering users applications for products and markets. These technological innovations are interoperable and composable by design. Market participants can leverage the platform they own to move away from siloed and inefficient centralized systems and build an open ecosystem of innovative applications. 
 
 # Decentralized shared infrastructure and application platform
 ### The problem
-The maritime shipping and international trade industry operate on disconnected proprietary platforms. Market participants rely on multiple common platforms, provided by one or more intermediaries, that encompass infrastructure and rules required by users to transact with each other. 
+The maritime shipping and international trade industry operate on disconnected proprietary platforms. Market participants rely on multiple proprietary platforms, provided by one or more intermediaries, that encompass infrastructure and rules required by users to transact with each other. 
 ### How to solve it?
 A fundamental design decision for the industry that aspires to achieve operational efficiency, become carbon neutral, and expand its scope, is whether to preserve proprietary controlled platforms or develop open blockchain platforms that rivals can share. <br><br>
-
 On a decentralized shared platform, such as an open blockchain, multiple firms and developers collaborate in developing the platform's technology that constitutes infrastructure for the industry. Anyone can use the network to compete in offering users interoperable and composable applications. Because the applications are built on the same platform they create a decentralized ecosystem of services. In decentralized systems, value accrues to the platform and its users rather than intermediaries. These systems are much more resilient because they are distributed and maintained by open-source communities.
-
-### Who will develop the technology?
+###  Open-source development
 Building a web3 digital ecosystem is a task too large and too important for any corporate organization to tackle on its own. Market participants, policymakers, innovators, companies, universities, and investors all need to collaborate in this work. <br><br> 
 By bringing together Web3 and maritime we create the potential for the industry to explore new futures, achieve environmental goals, and create new markets. The foundation mediates this process on behalf of all market participants.
  
