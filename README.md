@@ -5,7 +5,7 @@ WMF is an association created to promote a vision that sees many companies and p
 ### Mission
 WMF has a simple and powerful mission: to enable the maritime industry to develop and share a decentralized digital infrastructure where market participants collaborate to build the platform's technology. Anyone can use the network to compete in offering users applications for products and markets. These technological innovations are interoperable and composable by design. Market participants can leverage the platform they own to move away from siloed and inefficient centralized systems and build an open ecosystem of innovative applications. 
 
-# Decentralized shared infrastructure and application platform
+# Shared infrastructure and application platform
 ### The problem
 The maritime shipping and international trade industry operate on disconnected proprietary platforms. Market participants rely on multiple proprietary platforms, provided by one or more intermediaries, that encompass infrastructure and rules required by users to transact with each other. 
 ### A design decision
