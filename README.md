@@ -1,15 +1,16 @@
 # The Web3 Maritime Foundation 
-Supporting digital maritime infrastructure innovation on decentralized web3 platforms. WMF is founded on a simple and powerful purpose: to enable the maritime industry to act collectively and coordinate toward an advanced digital future.<br><br>
-The Web3 Maritime Foundation supports the development of decentralized operational infrastructure for the maritime-shipping industry on blockchain platforms. WMF envisions a maritime future where web3 is the technological base for building financial, digital, and supply chain infrastructure ecosystems. <br><br>
+Supporting digital maritime infrastructure innovation on web3 platforms. WMF is founded on a simple and powerful purpose: to enable a decentralized digital future for the maritime industry where market participants coordinate and act toward their collective future <br><br>
 The state of existing infrastructure is neither desirable nor sustainable. Constructing a web3 digital ecosystem is a task too large and too important for any corporate organization to tackle on its own.  Market participants, policymakers, innovators, companies, universities, and investors all need to collaborate in this work. <br><br> 
 By bringing together Web3 and maritime we create the potential for the industry to explore new futures, achieve environmental goals, and create new markets. In decentralized systems, value accrues to the platform and its users rather than intermediaries. These systems are much more resilient because they are distributed and maintained by market-driven open-source communities. 
  
-The domains we work on are:
+## WMF pillars
+WMF main value proposition is to enable secure, private, low-cost transfers of data in a public decentralized network, where the industry can freely develop ecosystems of applications and services
+
 ### Digital infrastructure autonomy
 We support experimental base protocols that use novel technologies, such as zero-knowledge cryptography. WMF projects aim to push the boundaries of what is technically possible in public infrastructure systems and collective ownership and development.
-### Application and market participants ecosystem 
+### Application  ecosystem 
 Web3-Maritime requires new tools and applications. We encourage the development on open ecosystem values, of composable technologies.
-### Education and coordination.<br>
+### Education and coordination of market participants.<br>
 We raise awareness and build capacity. We bring more shipping and maritime companies, developers, technologists, and leaders to the frontiers of decentralized web3 maritime development. We do this through educational programs, and other community initiatives.<br> 
 
 The Web3 Maritime Foundation, 0XMAR, is entirely funded by the workshops and advisor services we deliver. 
