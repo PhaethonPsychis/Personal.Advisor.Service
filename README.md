@@ -27,8 +27,9 @@ We raise awareness and build capacity. We bring more shipping and maritime compa
 
 # WMF is a web3-organisation
 We are at the frontier of a new kind of organization: one that supports a web3 blockchain maritime ecosystem, without controlling it. Every day we learn more about what kind of organization the WMF needs to be, to support web3-maritime long-term growth.
-You can think of WMF as an ecosystem of people, teams and corporations that contribute to the joint development of a technology product, rather than a product being engineered and sold to individuals. We welcome you to join us and make a difference together.<br>
+You can think of WMF as an ecosystem of people, teams and corporations that contribute to the joint development of a technology product, rather than a product being engineered and sold to individuals. We welcome you to join us and make a difference together.<br><br>
 
+Upcoming milestones for WMF include: Organize the web3 maritime Athens 2023 conference, develop a digital membership service to leverage partnerships with interesting parties, and launch an internal investment fund tasked with supporting web3 maritime application level projects.<br><br>
 
 The Web3 Maritime Foundation is up to now, entirely funded by the workshops and the advisor services we deliver.
 
