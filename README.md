@@ -18,7 +18,6 @@ By bringing together Web3 and maritime we create the potential for the industry 
  
 ## WMF pillars
 
-
 ### Shared digital infrastructure
 We support experimental base protocols that use novel technologies, such as zero-knowledge cryptography. WMF projects aim to push the boundaries of what is technically possible in public infrastructure systems and collective ownership and development.
 ### Application platform and ecosystem 
@@ -26,16 +25,21 @@ Web3-Maritime requires new tools and applications. We encourage the development 
 ### Education and coordination of market participants.<br>
 We raise awareness and build capacity. We bring more shipping and maritime companies, developers, technologists, and leaders to the frontiers of decentralized web3 maritime development. We do this through educational programs, and other community initiatives.<br> 
 
-The Web3 Maritime Foundation, 0XMAR, is entirely funded by the workshops and advisor services we deliver. 
+# WMF is a web3-organisation
+We are at the frontier of a new kind of organization: one that supports a web3 blockchain maritime ecosystem, without controlling it. Every day we learn more about what kind of organization the WMF needs to be, to support web3-maritime long-term growth.
+You can think of WMF as an ecosystem of people, teams and corporations that contribute to the joint development of a technology product, rather than a product being engineered and sold to individuals. We welcome you to join us and make a difference together.<br>
+
+
+The Web3 Maritime Foundation is up to now, entirely funded by the workshops and the advisor services we deliver.
+
 # workshop #1
 ### Building the Greek web3-maritime ecosystem 
-This workshop looks toward the future of web3 and maritime. Learn how to use web3 and combine it with your knowledge and competence from the shipping industry to reach maximal operational efficiency. Lead the development of the Greek web3-maritime ecosystem.<br>
+The only way to get into web3 and understand what is going on is by doing. This workshop will show you how to use web3 and how to combine it with your knowledge and competence from the shipping industry to create the future of maritime and reach maximal operational efficiency. Lead the development of the Greek web3-maritime ecosystem.<br>
 https://b6wvbho05t0.typeform.com/to/wAuohLtf <br><br>
 ![PERSONALISED WORKSHOP AND ADVISORY SERVICES (1)](https://user-images.githubusercontent.com/80890815/174136331-1e526214-85a9-4c39-9637-528bc089107c.png)
 <br><br>
 
-# WMF is a web3-organisation
-In the future WMF will offer digital membership to maritime organizations and companies that are ready to embrace industry wide digital technology in their operations. The WMF initiative is establishing novel decentralized management and governance structures that we will anounce soon. You can think of WMF as the Web 3 version of a credit union or cooperative: think of a community of people that contribute to the joint development of a product, rather than a product being engineered and sold to individuals. We welcome you to join us and make a difference together.<br>
+
 
 
 
