@@ -13,7 +13,7 @@ TBD
 # upcoming summits
 TBD
 
-# upcoming workshops in Athens for founding memebers and launch partners
+# upcoming workshops in Athens for founding members and launch partners
 Conference workshops will run from early October and are available to all partners
 
 
