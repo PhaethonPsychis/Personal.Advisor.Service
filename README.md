@@ -13,15 +13,15 @@ The maritime shipping and international trade industry operate on disconnected p
 A fundamental design decision for the industry that aspires to achieve operational efficiency, become carbon neutral, and expand it, is whether to preserve proprietary controlled platforms or develop open blockchain platforms that rivals can share. <br><br>
 On a decentralized shared platform, such as an open blockchain, multiple firms and developers collaborate in developing the platform's technology that constitutes infrastructure for the industry. Anyone can use the network to compete in offering users interoperable and composable applications. Because the applications are built on the same platform they create a decentralized ecosystem of services. In decentralized systems, value accrues to the platform and its users rather than intermediaries. These systems are much more resilient because they are distributed and maintained by open-source communities.
 ###  Open-source development
-Building a web3 digital ecosystem is a task too large and too important for any corporate organization to tackle on its own. Market participants, policymakers, innovators, companies, universities, and investors all need to collaborate in this work. <br><br> 
-By bringing together Web3 and maritime we create the potential for the industry to explore new futures, achieve environmental goals, and create new markets. The foundation mediates this process on behalf of all market participants.
+Building a web3 digital ecosystem is a task too large and too important for any corporate organization to tackle on its own. Market participants, policymakers, innovators, companies, universities, and investors all need to collaborate in this work. WMF promotes projects build on open-source to harness the power of collective development <br><br> 
+
  
 ## WMF pillars
 
 ### Shared digital infrastructure
-We support experimental base protocols that use novel technologies, such as zero-knowledge cryptography. WMF projects aim to push the boundaries of what is technically possible in public infrastructure systems and collective ownership and development.
+WMF is focused on creating and scaling digital web3 maritime with the use of zero-knowledge cryptography technologies. WMF supports projects that use the Ethereum as a data availability and settlement layer. Our aim is to reach market sooner rather than later with strong security guarantees. 
 ### Application platform and ecosystem 
-Web3-Maritime requires new tools and applications. We encourage the development on open ecosystem values, of composable technologies.
+Web3-Maritime requires new open-source platforms that are permission-free. WMF is committed to fostering the growth of Web3-maritime applications by providing the infrastructure needed for Web3-maritime. 
 ### Education and coordination of market participants.<br>
 We raise awareness and build capacity. We bring more shipping and maritime companies, developers, technologists, and leaders to the frontiers of decentralized web3 maritime development. We do this through educational programs, and other community initiatives.<br> 
 
