@@ -4,6 +4,7 @@ WMF Athens 2023 is an event bringing together some of the top minds and experts 
 
 The conference brings together the  industry of maritime and shipping, international trade, zero-knowledge cryptography, and shared platforms to collectively design our decentralized future<br><br>
 
+Follow the link to find out more about maritime digital future and decentralized shared digital platforms
 ### [Rationale for the web3 maritime](https://github.com/phaethonpsichis/web3-maritime)
 
 # Industry leaders program
