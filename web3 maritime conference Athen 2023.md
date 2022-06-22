@@ -28,7 +28,7 @@ Help WMF launch the first global conference in web3 maritime and enjoy internati
 # Sponsors
 TBD
 
-# Members
+# Foundation members
 Purchase a Memberships for the web3 maritime foundation.
 
 
