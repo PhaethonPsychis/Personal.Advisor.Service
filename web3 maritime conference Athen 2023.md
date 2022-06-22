@@ -8,13 +8,7 @@ The conference brings together the  industry of maritime and shipping industry, 
 We call all young talent to come forward. Our aim is to provide them with support and resources to lead the future of the industry.
 
 ## 365 days of summits and workshops
-TBD
-
-### founding members and launch partners
-Conference workshops will run from early October and are available to all partners
-
-### General public
-Free TBD
+TBD: Conference workshops will run from early October and are available to all partners
 
 ### Dates
 Early 2023. TBD
