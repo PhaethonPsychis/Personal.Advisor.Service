@@ -1,20 +1,28 @@
 
 # web3 maritime conference Athens 2023
-WMF Athens 2023 is an event bringing together some of the top minds and experts in web3 and maritime to in-person talks and workshops.
-Exploring how web3 blockchain technologies can help build a shared digital infrastructure for the maritime industry and international trade. Building our decentralized oceanic maritime future together. 
+WMF Athens 2023 is an event bringing together some of the top minds and experts in web3 and maritime to in-person talks and workshops. The conference brings together maritime, shipping, zero knowledge cryptography, and shared digital infrastructure. The conference aim to explore how web3 blockchain technologies can help build a shared digital infrastructure for the maritime industry and international trade. Building our decentralized oceanic maritime future together. A big part of this process is to call all young talent to come forward and provide them with the support they need to take industry forward.
 ### Dates
 Early 2023. TBD
-# Become a launch partner
-Help WMF launch the first global conference in web3 maritime and enjoy international exposure 
+# Partners program
+Our partner program give to ecosystem participants opportunities to offer products and services to the community and associate their brand with a trully innovative initiative. We seek for partners in the following areas: 
+### Media
+### Event Launch 
+Help WMF launch the first global conference in web3 maritime and enjoy international exposure
 
-# Become a sponsor
+# Sponsors
 TBD
 
-# upcoming summits
+# Members
+Purchase a Memberships for the web3 maritime foundation.
+
+# upcoming workshops and summits in Athens
 TBD
 
-# upcoming workshops in Athens for founding members and launch partners
+### founding members and launch partners
 Conference workshops will run from early October and are available to all partners
+
+### General public
+Free TBD
 
 
 # FAQS
@@ -24,7 +32,7 @@ We are committed to creating a safe and inclusive environment. We are also commi
 - Abusive comments or behavior towards others will not be tolerated
 
 ### Who can attend and how much does it cost?
-Anyone can attend for free if they purchase a ticket. Details soon. The cost of the conference is covered by the WMF and the launch partners
+Anyone can attend for free if they purchase a ticket. Details soon. The cost of the conference is covered by the WMF, partners and  sponsors
 
 ### Web3 workshops for the general audience
 Several teams are organizing introductory web3 workshops. 
