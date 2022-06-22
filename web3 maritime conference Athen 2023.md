@@ -15,7 +15,7 @@ Early 2023. TBD
 # Partners program
 Our partner program give to ecosystem participants opportunities to offer products and services to the community and associate their brand with a trully innovative initiative. We seek for partners in the following areas: 
 ### Media
-### Event Launch 
+### Launch support 
 Help WMF launch the first global conference in web3 maritime and enjoy international exposure
 
 # Sponsors
