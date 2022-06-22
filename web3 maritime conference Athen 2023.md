@@ -1,10 +1,9 @@
 
 # web3 maritime conference Athens 2023
-#### Onboarding talent to the Web3 Maritime ecosystem.
 WMF Athens 2023 is an event bringing together some of the top minds and experts in web3 and maritime to in-person talks and workshops.<br><br> 
 
 The conference brings together the  industry of maritime and shipping, international trade, zero-knowledge cryptography, and shared platforms to collectively design our decentralized future<br><br>
-### Calling all young talent to join
+### Onboarding talent to the Web3 Maritime ecosystem.
 Our aim is to provide them with support and resources to lead the future of the industry.
 
 ## 365 days of summits and workshops
