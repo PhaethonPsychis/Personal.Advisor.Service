@@ -8,7 +8,8 @@ WMF has a simple and powerful mission: to enable the maritime industry to develo
 
 # Shared infrastructure and application platform
 ### The problem
-The maritime shipping and international trade industry operate on disconnected proprietary platforms. Market participants rely on multiple proprietary platforms, provided by one or more intermediaries, that encompass infrastructure and rules required by users to transact with each other. 
+The maritime shipping and international trade industry rely its operations on disconnected proprietary platforms provided by many intermediaries. 
+A proprietary platform has a single provider, a country, or a corporation, that solely controls its technology and rules required by users to access the platform and transact with each other. 
 ### A design decision
 A fundamental design decision for the industry that aspires to achieve operational efficiency, become carbon neutral, and expand, is whether to preserve proprietary controlled platforms or develop open blockchain platforms that rivals can share. <br><br>
 On a decentralized shared platform, such as an open blockchain, multiple firms and developers collaborate in developing the platform's technology that constitutes infrastructure for the industry. Anyone can use the network to compete in offering users interoperable and composable applications. Because the applications are built on the same platform they create a decentralized ecosystem of services. In decentralized systems, value accrues to the platform and its users rather than intermediaries. These systems are much more resilient because they are distributed and maintained by open-source communities.
