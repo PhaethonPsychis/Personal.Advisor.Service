@@ -1,6 +1,6 @@
 
 # WEB3 Platforms and Decentralized Infrastructure Transform Maritime.
-### Industrial Research Workshop and Conference Athens 2023
+## Industrial Research Workshop and Conference Athens 2023
 We are announcing an industrial research workshop to develop prototypes of decentralized web3 platforms powered by zero-knowledge cryptography to create a shared open scalable infrastructure for maritime, shipping, freight markets and international trade. The workshop is 365 days long and will present its activity and outcome at the  WEB3 Maritime Athens 2023 Conference. WMC Athens 2023 is an event bringing together some of the top minds and experts in web3 and maritime to in-person talks and workshops.<br><br> 
 This project enables industry leaders to participate as launching partners in and support industrial research in  Maritime infrastructure and application platforms. The workshop shapes the vision, specifications, and strategy and builds prototypes for web3-blockchain platforms that can scale globally.<br><br> 
 
