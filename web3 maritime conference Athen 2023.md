@@ -12,7 +12,7 @@ Leaders in the Maritime Shipping have two options: assume the responsibility of 
 Policymakers should work with market participants to unlock the potential of Web 3 technologies and design regulatory frameworks that are carefully calibrated to address perceived risks.<br><br>
 ### A European Greek strategy
 A coherent national strategy that addresses these issues would provide a foundation for the country’s long-term competitiveness and send a signal that Greece can reemerge as a global leader in developing digital systems that benefit world maritime and all citizens. It could also create a starting point for the public-private partnerships that will be needed to achieve these goals.<br><br>
-### Become an industry research partner.
+# Become an industry research partner.
 Do you want to participate through our partners and sponsors program? Interested in taking advantage of these digital infrastructure systems in your organization? Schedule a person-in-person meeting with us.<br><br>
 Let’s bring the web3 to Maritime!
 
