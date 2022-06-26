@@ -6,10 +6,14 @@ This project enables industry leaders to participate as launching partners in an
 
 Web3 has stunned the world by forging a parallel system of finance of unprecedented flexibility and creativity in less than a decade." This demonstrates the disrupting power web3 systems possess to bring alternative online internet environments into existence.
 We see Web3 as a unique opportunity to unlockc the true potential of maritime. On top of web3 we can build the foundation of new financial and digital infrastructure systems that change maritime, shipping, and international trade for the better. <br><br>
+### The role of industry leaders
 Leaders in the Maritime Shipping have two options: assume the responsibility of shepherding Web 3-maritime innovation in a manner that’s consistent with the industry’s values, or cede this role to others with a different, divergent set of priorities. The choice should be clear.
+### The role of policy makers in European union
 Policymakers should work with market participants to unlock the potential of Web 3 technologies and design regulatory frameworks that are carefully calibrated to address perceived risks.<br><br>
+### A European Greek strategy
 A coherent national strategy that addresses these issues would provide a foundation for the country’s long-term competitiveness and send a signal that Greece can reemerge as a global leader in developing digital systems that benefit world maritime and all citizens. It could also create a starting point for the public-private partnerships that will be needed to achieve these goals.<br><br>
-Interested in taking advantage of these digital infrastructure systems in your organization? Do you want to participate through our partners and sponsors program? Schedule a person-in-person meeting with us.<br><br>
+### Become an industry research partner.
+Do you want to participate through our partners and sponsors program? Interested in taking advantage of these digital infrastructure systems in your organization? Schedule a person-in-person meeting with us.<br><br>
 Let’s bring the web3 to Maritime!
 
 
