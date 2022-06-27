@@ -22,10 +22,5 @@ Follow the link to find out more about the web3 maritime foundation
 
 
 
-# FAQS
-### What is the code of conduct?
-We are committed to creating a safe and inclusive environment. We are also committed to protecting the safety of everyone in attendance at our event, including staff and volunteers. We know that the event will be much more enjoyable for everyone if we all follow these simple rules:
-- Any form of harassment—in person or online—is not permitted
-- Abusive comments or behavior towards others will not be tolerated
 
 
