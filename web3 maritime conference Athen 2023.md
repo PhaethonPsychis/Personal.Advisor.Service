@@ -7,7 +7,7 @@ We focus on the following:
 ### Vision and Architecture
 Investigate available solutions that provide strong security guarantees and privacy while being public and permission free. Design the specifications and requirements for a open source blockchain protocol to serve as a foundational layer to deploy application platforms. 
 
-### Base infrastructure protocol prototype
+### Base blockchain prototype
 Implement design and architecture outcome to develop a functioning prototype 
 
 ### Interoperable applications ecosystem
