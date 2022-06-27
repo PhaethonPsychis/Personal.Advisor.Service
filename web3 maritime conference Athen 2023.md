@@ -28,9 +28,9 @@ Let’s bring the web3 to Maritime!
 At the end of this 20 moth program, teams will present built prototypes at the  WEB3 Maritime Athens 2023 Conference.<br><br> 
 
 Follow the link to find out more about the web3 maritime foundation
-### [Rationale for the web3 maritime](https://github.com/phaethonpsichis/web3-maritime)
+### [The WEB3 Maritime Foundation](https://github.com/phaethonpsichis/web3-maritime)
 
-
+For any inquiries, email [phaethon.psichis@protonmail.com]
 
 
 
