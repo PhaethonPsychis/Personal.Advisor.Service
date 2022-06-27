@@ -28,6 +28,8 @@ WMF is focused on creating and scaling digital web3 maritime with the use of zer
 Web3-Maritime requires new open-source platforms that are permission-free. WMF is committed to fostering the growth of Web3-maritime applications by providing the infrastructure needed for Web3-maritime. 
 ### Education and coordination of market participants.<br>
 We raise awareness and build capacity. We bring more shipping and maritime companies, developers, technologists, and leaders to the frontiers of decentralized web3 maritime development. We do this through educational programs, and other community initiatives.<br> 
+### web3 Maritime policy framework. A European Greek strategy
+A coherent national strategy that addresses these issues would provide a foundation for the country’s long-term competitiveness and send a signal that Greece can reemerge as a global leader in developing digital systems that benefit world maritime and all citizens. It could also create a starting point for the public-private partnerships that will be needed to achieve these goals. Policymakers should work with market participants to unlock the potential of Web 3 technologies and design regulatory frameworks that are carefully calibrated to address perceived risks <br><br>
 
 # WMF is a web3-organisation
 We are at the frontier of a new kind of organization: one that supports a web3 blockchain maritime ecosystem, without controlling it. Every day we learn more about what kind of organization the WMF needs to be, to support web3-maritime long-term growth.
