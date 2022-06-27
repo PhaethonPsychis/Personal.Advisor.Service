@@ -10,7 +10,6 @@ We are developing prototypes in:
 
 ### Base infrastructure protocol prototype
 
-At the end of this 20 moth program, teams will present built prototypes at the  WEB3 Maritime Athens 2023 Conference.<br><br> 
 
 ### Interoperable applications ecosystem
 Supply chain full service platforms
@@ -27,7 +26,9 @@ Leaders in the Maritime Shipping have two options: assume the responsibility of 
 # Become an industry research partner.
 This project enables industry leaders to participate as launching partners in and support industrial research in  Maritime infrastructure and application platforms. Do you want to participate through our partners and sponsors program? Interested in taking advantage of these digital infrastructure systems in your organization? Schedule an in-person meeting with us.<br><br>
 Let’s bring the web3 to Maritime!
-
+# 
+# Athens 2023 conference
+At the end of this 20 moth program, teams will present built prototypes at the  WEB3 Maritime Athens 2023 Conference.<br><br> 
 
 Follow the link to find out more about the web3 maritime foundation
 ### [Rationale for the web3 maritime](https://github.com/phaethonpsichis/web3-maritime)
