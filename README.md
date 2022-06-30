@@ -1,4 +1,4 @@
-# The Web3 Maritime Foundation 
+# Maritime WEB3 Industrial Research Foundation 
 Developing a shared digital infrastructure platform for the maritime industry on open web3-blockchains<br><br>
 
 ### Vision
