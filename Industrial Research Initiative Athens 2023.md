@@ -11,7 +11,7 @@ Investigate available solutions that provide strong security guarantees and priv
 Implement design and architecture outcome to develop a functioning prototype 
 
 ### Interoperable applications ecosystem
-We aim to bring into market platforms applications such as:
+We aim to help bring into market platform applications such as:
 * Supply chain full service platforms
 * Decentralized Automated Freight Markets
 * Data markets platform
