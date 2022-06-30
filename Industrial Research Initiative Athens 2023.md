@@ -23,11 +23,7 @@ Leaders in the Maritime Shipping have two options: assume the responsibility of 
 This project enables industry leaders to participate as launching partners in and support industrial research in  Maritime infrastructure and application platforms. Do you want to participate through our partners and sponsors program? Interested in taking advantage of these digital infrastructure systems in your organization? Schedule an in-person meeting with us.<br><br>
 Let’s bring the web3 to Maritime!
 # 
-# WEB3 Decentralized Platforms Transform Maritime. Conference Athens 2023
-At the end of this 20 month program, teams will present prototypes at the  WEB3 Maritime Athens 2023 Conference.<br><br> 
 
-Follow the link to find out more about the web3 maritime foundation
-### [The WEB3 Maritime Foundation](https://github.com/phaethonpsichis/web3-maritime)
 
 For any inquiries, email [phaethon.psichis@protonmail.com]
 
