@@ -1,5 +1,5 @@
 
-# Maritime WEB3 Industrial Research Workshop 
+# Maritime WEB3 Industrial Research Pilot Program 
 
 We are announcing an industrial research workshop to promote infrastructure innovation on maritime built on web3 platformss powered by zero-knowledge cryptography. The aim of this workshop is to shape the vision, specifications, and strategy for a shared decentralized open infrastructure ecosystem consisting of interoperable platform applications that can scale globally.<br><br> 
 We focus on the following:
