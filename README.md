@@ -16,7 +16,7 @@ Attempts to take control of the industry by countries, and corporations are the 
 ### A design decision
 A fundamental design decision for an industry that aspires to achieve operational efficiency, become resilient, address climate change threats, and grow in new markets, is whether to preserve proprietary controlled platforms or develop open digital infrastructure based on web3-blockchain protocols that rivals can share. <br><br>
 On a decentralized shared platform, such as an open blockchain, multiple firms and developers collaborate in developing the platform's technology that constitutes infrastructure for the industry. Anyone can use the network to compete in offering users interoperable and composable applications. Because the applications are built on the same platform they create a decentralized ecosystem of services. In decentralized systems, value accrues to the platform and its users rather than intermediaries. These systems are much more resilient because they are distributed and maintained by open-source communities.
-###  Open-source development
+###  Open-source development principles
 Building a web3 digital ecosystem is a task too large and too important for any corporate organization to tackle on its own. Market participants, policymakers, innovators, companies, universities, and investors all need to collaborate in this work. WMF promotes projects build on open-source to harness the power of collective development <br><br> 
 
  
