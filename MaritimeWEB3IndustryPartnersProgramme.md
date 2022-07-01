@@ -3,6 +3,9 @@
 
 The industry partners program brings together industry players to collectively shape the vision, build the specifications, and build prototypes for a public web3 based infrastructure for the maritime ecosystem that is resilient, globally scalable, and interoperable that enables platform applications to built on top<br><br> 
 
+![ATHENS2023SUMMITS](https://user-images.githubusercontent.com/80890815/176908158-ee081a5a-dcf4-4bf0-bef9-a4300e6b0119.png)
+
+
 
 ### EnVision WEB3 Maritime Infrastructure. Build capacity
 
