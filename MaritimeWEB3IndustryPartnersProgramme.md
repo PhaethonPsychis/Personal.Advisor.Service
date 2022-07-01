@@ -20,6 +20,9 @@ We aim to help bring into market platform applications such as:
 * Data markets platform
 * Decentralized Financial Institutions and alternative finance products
 
+
+![revenue](https://user-images.githubusercontent.com/80890815/176914752-ab1a49cf-32d2-4bf4-b765-719a5d72c108.png)
+
 # Become an industry research partner.
 Leaders in the Maritime Shipping have two options: assume the responsibility of shepherding Web 3-maritime innovation in a manner that’s consistent with the industry’s values, or cede this role to others with a different, divergent set of priorities. The choice should be clear.
 
