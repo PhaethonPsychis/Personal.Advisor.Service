@@ -1,8 +1,8 @@
 
 # Maritime WEB3 Industry Partners Programme
 
-The aim of the industry partners program is to bring together all industry players to collectively shape the vision, build the specifications, and map the strategy to create a public web3 infrastructure for the maritime ecosystem that is resilient, globally scalable, interoperable enabling platform applications to built on top<br><br> 
-We support the following domains:
+The industry partners program brings together industry players to collectively shape the vision, build the specifications, and build prototypes for a public web3 based infrastructure for the maritime ecosystem that is resilient, globally scalable, and interoperable that enables platform applications to built on top<br><br> 
+
 
 ### EnVision WEB3 Maritime Infrastructure. Build capacity
 
