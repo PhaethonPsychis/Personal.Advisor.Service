@@ -1,14 +1,14 @@
 
 # Maritime WEB3 Industry Partners Programme
 
-We are announcing an industrial research workshop to promote infrastructure innovation on maritime built on web3 platformss powered by zero-knowledge cryptography. The aim of this partnership is to shape the vision, specifications, and strategy for a shared decentralized open infrastructure ecosystem consisting of interoperable platform applications that can scale globally.<br><br> 
-We focus on the following:
+We are announcing an industrial research programme to promote web3 infrastructure innovation on maritime built on blockchain platformss powered by zero-knowledge cryptography. The aim of the industry partners program is to bring together all industry players to collectively shape the vision, build the specifications, and map the strategy to create a public web3 infrastructure for the maritime ecosystem that is resilient, globally scalable, interoperable enabling platform applications to built on top<br><br> 
+We support the following domains:
 
-### Vision and Architecture
-Investigate available solutions that provide strong security guarantees and privacy while being public and permission free. Design the specifications and requirements for a open source blockchain protocol to serve as a foundational layer to deploy application platforms. 
+### EnVision WEB3 Maritime Infrastructure. Build capacity
+
 
 ### Base blockchain prototype
-Implement design and architecture outcome to develop a functioning prototype 
+Develop functioning prototypeS. Investigate available solutions that provide strong security guarantees and privacy while being public and permission free. Design the specifications and requirements for a open source blockchain protocol to serve as a foundational layer to deploy application platforms. 
 
 ### Interoperable applications ecosystem
 We aim to help bring into market platform applications such as:
