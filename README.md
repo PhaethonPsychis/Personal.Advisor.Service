@@ -1,6 +1,9 @@
 # Maritime WEB3 Industrial Research Foundation 
 Developing a shared digital infrastructure platform for the maritime industry on open web3-blockchains<br><br>
-The Maritime WEB3 Foundation is a research and deployment agency that brings together industry players to participate in the Maritime WEB3 Industrial Research Partners Program. 
+The Maritime WEB3 Foundation is a research and deployment agency that brings together industry players to support the Maritime WEB3 Public Infrastructure.
+![Frame 22](https://user-images.githubusercontent.com/80890815/176833700-6ee2a60d-1e75-496a-bd58-926b42892b82.png)
+
+
 ### Vision
 WMF is created to promote a vision in the maritime industry that sees many companies and platforms interacting with each other through open source applications built on top of a shared open decentralized infrastructure network.<br><br>
 ### Mission
