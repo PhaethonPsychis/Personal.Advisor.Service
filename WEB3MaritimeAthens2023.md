@@ -31,7 +31,18 @@ Available to all participants
 
 
 # Join as an Industry Partner
-The industry partners program brings together industry players with top blockchain research teams and WEB3 product managers. The program aim is to shape the vision, build the specifications, and deploy prototypes for public web3-based infrastructure for the maritime ecosystem<br><br>
+The industry partners program brings together industry players with top blockchain research teams and WEB3 product managers. The program aim to shape the vision, build the specifications, and deploy prototypes for public web3-based infrastructure<br><br>
+How partners benefit from this collaboration:
+* They participate in building the specs and help form products that best serve the needs of the industry
+* They are "in the loop" familiarizing themselves with the upcoming technologies
+* They test beta prototypes
+* They are well positioned to participate upcoming investment opportunities
+* They will become the MARITIME WEB3 PIONEERS 
+
+How partners join this program:
+For the first year of the program We have 100 memberships available at the price of 45000 Euros and 20 memberships available at the price of 150000 Euros. Memberships will be associated with upcoming features and benefits.
 
 
+# Join as a sponsor
+TBD
 
