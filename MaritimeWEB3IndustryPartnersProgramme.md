@@ -1,14 +1,14 @@
 
 # Maritime WEB3 Industry Partners Programme
 
-The industry partners program brings together industry players to collectively shape the vision, build the specifications, and build prototypes for public web3-based infrastructure for the maritime ecosystem that is resilient, globally scalable, and interoperable enabling platform applications to be built on top<br><br>
+The industry partners program brings together industry players with top blockchain research teams and WEB3 product managers. The program aim is to shape the vision, build the specifications, and deploy prototypes for public web3-based infrastructure for the maritime ecosystem<br><br>
 
 ![ATHENS2023SUMMITS](https://user-images.githubusercontent.com/80890815/176908158-ee081a5a-dcf4-4bf0-bef9-a4300e6b0119.png)
 
 
 
 ### EnVision WEB3 Maritime Infrastructure. Build capacity
-Popularizing technology content to enable maritime players to start building capacity
+TED like presentations on WEB3 maritime technologies to help participants start building capacity
 
 ### Base blockchain prototype
 Develop functioning prototypes. Investigate available solutions that provide strong security guarantees and privacy while being public and permission free. Design the specifications and requirements for a open source blockchain protocol to serve as a foundational layer to deploy application platforms. 
