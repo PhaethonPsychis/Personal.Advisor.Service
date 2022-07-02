@@ -42,7 +42,7 @@ How partners benefit from this collaboration:
 * They will become the MARITIME WEB3 PIONEERS 
 
 How partners join this program:
-For the first year of the program We have 200 memberships available at the price of 45000 Euros and. Purchase one or more. Memberships will be associated with upcoming features and benefits.
+For the first year of the program We have 200 memberships available at the price of 45000 Euros. Purchase one or more. In the future memberships will be associated with upcoming features and benefits.
 
 
 # Join as a sponsor
