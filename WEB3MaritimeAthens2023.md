@@ -33,7 +33,7 @@ Available to all participants
 
 
 
-The industry partners program brings together industry players with top blockchain research teams and WEB3 product managers. The program aim to shape the vision, build the specifications, and deploy prototypes for public web3-based infrastructure<br><br>
+The industry partners program brings together industry players with top blockchain research teams and WEB3 product managers. The program aim to shape the vision, build the specifications, and deploy prototypes for public maritime web3-based infrastructure<br><br>
 How partners benefit from this collaboration:
 * They participate in building the specs and help form products that best serve the needs of the industry
 * They are "in the loop" familiarizing themselves with the upcoming technologies
