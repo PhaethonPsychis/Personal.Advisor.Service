@@ -2,15 +2,15 @@
 # Maritime WEB3 platforms and infrastructure 
 # Athens 2023 Summits 
 
-WEB3 Maritime Summits serves an important function to companies that would like to build capacity and start participating in today’s WEB3 Maritime high-tech infrastructure economy. WEB3 Maritime Summits offers multiple levels of engagement through the [summit events]curated content presentations, Industry Partner level collaboration, the executive coaching sessions, and workshops.
+WEB3 Maritime serves an important function to companies that would like to build capacity and start participating in today’s WEB3 Maritime high-tech infrastructure economy. The Athens 2023 Summits offers multiple levels of engagement with the curated content events, the industry partner level collaboration program, the executive coaching sessions, and many workshops.
 
 ![Frame 23](https://user-images.githubusercontent.com/80890815/176995519-278e6c1f-8407-4daf-b469-e4c385436641.png)
 
 
 # 4 Events over 4 quarters 
-with the first event taking place early 2023 in Athens. Participants having purchased the ticket can access lectures and hands-on training workshops. 
+With the first event taking place early 2023 in Athens participants having purchased the ticket access TED style experiences and hands-on training workshops. 
 
-A total of 1500 Tickets are available. Tickets grant access to all four events
+A total of 1500 Tickets are available. Tickets grant access to all four events during a period of 16 months
 
 ## Early bird tickets 2500 Euros
 200 tickets are available at the price of 2500 Euros on a first come first served basis
