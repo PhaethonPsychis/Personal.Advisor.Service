@@ -1,5 +1,6 @@
 
 # Maritime WEB3 platforms and infrastructure 
+Creating the infrastructure ecosystem for the maritime industry
 # Athens 2023 Summits 
 
 WEB3 Maritime serves an important function to companies that would like to build capacity and start participating in today’s WEB3 Maritime high-tech infrastructure economy. The foundation offers multiple levels of engagement through the Athens 2023 Summits curated content events and training workshops, the industry partner level collaboration program, the executive coaching sessions.
